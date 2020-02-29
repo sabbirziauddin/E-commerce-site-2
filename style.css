@@ -35,3 +35,8 @@ h5 {
     border-top: none;
     background-color: white;
 }
+
+.cat-highlight {
+    border-bottom: 5px solid orange;
+    padding-bottom: 3px;
+}
