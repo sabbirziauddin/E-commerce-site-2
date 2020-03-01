@@ -40,3 +40,17 @@ h5 {
     border-bottom: 5px solid orange;
     padding-bottom: 3px;
 }
+
+.catagories-shad {
+    box-shadow: 20px 30px 30px lightgray;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+h4 {
+    text-align: center;
+}
+
+.bg-color {
+    background-color: lightgray;
+}
